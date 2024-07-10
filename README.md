@@ -26,4 +26,4 @@ I'm a passionate fully-full-stacky-stack that...
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
-Badges generated with [Badges](https://badges-seven.vercel.app).
+Badges generated with [Badges](https://badges.manu.md).
