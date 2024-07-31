@@ -1,7 +1,7 @@
 ## 👋🏻 Hey! How is it going? Hope you are doing well :)
 
 <!-- Bio -->
-I'm a passionate fully-full-stacky-stack that...
+I'm a product engineer and co-founder of [belo](https://belo.app). I was born in El Calafate, Argentina and now live in Buenos Aires.
 
 ## 👨🏻‍💻 Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
